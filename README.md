@@ -61,27 +61,28 @@ FroyoOS is a multi-codelab certification project demonstrating advanced Google C
 ```
 froyo-agentic-cloud/
 ├── README.md                          # This file
-├── codelab-1-dark-data/
+├── CodeLab_1/
 │   ├── README.md                      # Codelab 1 documentation
 │   └── setup.sh                       # Setup script
-├── codelab-2-alloydb-federation/
+├── CodeLab_2/
 │   ├── README.md                      # Codelab 2 documentation
 │   ├── setup_alloydb.sh               # AlloyDB provisioning script
 │   └── federation.sql                 # BigQuery federation SQL
-├── codelab-3-agent-app/
+├── CodeLab_3/
 │   ├── README.md                      # Codelab 3 documentation
 │   ├── tools.yaml                     # MCP Toolbox configuration
 │   ├── deploy.sh                      # Cloud Run deployment script
 │   └── app-nobill.py                  # Agent application
-├── codelab-4-evaluation/
+├── CodeLab_4/
 │   ├── README.md                      # Codelab 4 documentation
 │   ├── agent_eval.py                  # Evaluation script
 │   └── eval_results.md                # Sample evaluation results
-├── codelab-5-data-agents/
+├── CodeLab_5/
 │   ├── README.md                      # Codelab 5 documentation
 │   ├── GEMINI.md                      # Antigravity IDE context file
 │   ├── load_tables.sh                 # BigQuery table loading script
 │   └── bq_agent_config.json           # BigQuery agent configuration
+├── Screenshots/
 └── .github/
     └── workflows/
         └── validate.yml               # CI validation workflow
