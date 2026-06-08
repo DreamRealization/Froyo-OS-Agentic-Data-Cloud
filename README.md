@@ -1,4 +1,4 @@
-# 🍦 FroyoOS — Agentic Data Cloud on Google Cloud Platform
+# FroyoOS — Agentic Data Cloud on Google Cloud Platform
 
 [![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
 [![AlloyDB](https://img.shields.io/badge/AlloyDB-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/alloydb)
