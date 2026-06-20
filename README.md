@@ -163,4 +163,4 @@ chmod +x deploy.sh
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License
