@@ -156,8 +156,8 @@ chmod +x deploy.sh
 ## 👤 Author
 
 **Dhyan Jain**
-- LinkedIn: [linkedin.com/in/dhyanjain](https://linkedin.com/in/dhyanjain)
-- GitHub: [github.com/dhyanjain](https://github.com/dhyanjain)
+- LinkedIn: [linkedin.com/in/dhyanjain2701](https://www.linkedin.com/in/dhyanjain2701/)
+- GitHub: [github.com/DreamRealization](https://github.com/DreamRealization)
 
 ---
 
